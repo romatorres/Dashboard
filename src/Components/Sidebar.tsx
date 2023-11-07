@@ -62,7 +62,7 @@ const Sidebar = () => {
             </li>
             <li className="hover:bg-purple-hover  transition-all duration-200 p-5">
               <Link href="/#exercicios" className="flex flex-row items-center">
-                <BsFillHeartPulseFill className="mr-2 text-2xl text-secondary" />
+                <BsFillLightningFill className="mr-2 text-2xl text-secondary" />
                 Exercícios
               </Link>
             </li>
